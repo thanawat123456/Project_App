@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="ภาคกลาง"
+        android:icon="@drawable/ic_more"
+        android:id="@+id/cen"/>
+    <item
+        android:title="ภาคอีสาน"
+        android:icon="@drawable/ic_star"
+        android:id="@+id/san"/>
+    <item
+        android:title="ภาคเหนือ"
+        android:icon="@drawable/ic_privacy"
+        android:id="@+id/north"/>
+    <item
+        android:title="ภาคใต้"
+        android:icon="@drawable/ic_share"
+        android:id="@+id/south"/>
+
+
+    <item
+        android:title="Rate Us"
+        android:icon="@drawable/ic_baseline_star_border_24"
+        android:id="@+id/rate_us"/>
+
+
+</menu>
